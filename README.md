@@ -5,7 +5,7 @@ This project was about predicting which patients are at risk of having a Chronic
 There are 34 variables in the dataset which can be categorized into three categories: 
 Demographics,
 Self-reported medical history,
-Physical medical history collected by the patients.
+Physical medical history collected.
 
 The sample is not representative of the US population.
 
